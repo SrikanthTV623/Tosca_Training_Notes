@@ -1,0 +1,38 @@
+Tricentis Tosca Certification
+
+
+Module 1
+
+Tricentis Tosca Fundamentals − Automating web application testing (AS1)
+
+https://academy.tricentis.com/share/v1/gamification/assigned_badge/70167e51-79c4-4588-83d1-5b75ae4a060c/shared?lang=en&t=1740032279314
+
+
+Module 2
+
+Tricentis Tosca Fundamentals − Optimizing test automation with centralized test data (AS2)
+
+https://academy.tricentis.com/share/v1/gamification/assigned_badge/6310c5b6-ecd7-48b4-bb43-bc7ff953ba3f/shared?lang=en&t=1740032317696
+
+
+Module 3
+
+Tricentis Tosca Deep Dive − Automating beyond web applications (AE1)
+
+https://academy.tricentis.com/share/v1/gamification/assigned_badge/090d2e2b-706f-4fff-ac43-da765605e6d4/shared?lang=en&t=1740032344078
+
+Module 4
+
+Tricentis Tosca Deep Dive − Structuring your test cases and test data (TDS1)
+
+https://academy.tricentis.com/share/v1/gamification/assigned_badge/8ccd1d1a-a74b-4384-b364-53a832cd21a1/shared?lang=en&t=1740032623328
+
+Module 5 
+
+Tricentis Tosca Fundamentals − Automating SAP testing
+
+https://academy.tricentis.com/share/v1/gamification/assigned_badge/4036fd8b-15d4-443a-9cbd-a060b93af8c4/shared?lang=en&t=1740032672884
+
+
+
+// this link are certificate links. (just paste in chrome)
